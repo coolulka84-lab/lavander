@@ -55,12 +55,12 @@ h1 {
 
 .section-a {
     background-color: violet;
-    padding: 20px;
+    line-height: 20px;
 }
 
 .section-b {
     background-color: rgb(234, 176, 248);
-    padding: 20px;
+    line-height: 20px;
 }
 
 p {
@@ -73,6 +73,7 @@ p {
     margin: none;
     font-size: 0;
     vertical-align: baseline;
+    line-height: 20px;
 }  
 
 .box-1 {
