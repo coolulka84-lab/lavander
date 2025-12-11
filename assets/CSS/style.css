@@ -13,6 +13,7 @@ body {
   margin: 0;
   font-size: 1rem;
   font-weight: 600;
+  line-height: 1.5;
 }
 
 header {
@@ -58,12 +59,10 @@ a {
 
 .section-a {
   background-color: violet;
-  line-height: 20px;
 }
 
 .section-b {
   background-color: rgb(234, 176, 248);
-  line-height: 20px;
 }
 
 p {
@@ -88,6 +87,7 @@ p {
   margin: 0;
   font-size: 1rem;
 }
+
 .box-1,
 .box-3 {
   background-color: violet;
@@ -96,4 +96,3 @@ p {
 .box-2 {
   background-color: rgb(234, 176, 248);
 }
-
